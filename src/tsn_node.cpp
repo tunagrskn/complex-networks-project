@@ -1,4 +1,4 @@
-#include "TSNNode.h"
+#include "tsn_node.h"
 
 Define_Module(TSNNode);
 

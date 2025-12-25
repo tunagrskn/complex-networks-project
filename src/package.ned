@@ -1,3 +1,0 @@
-// package tsnelection;
-
-@license(LGPL);

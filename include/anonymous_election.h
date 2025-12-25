@@ -1,7 +1,7 @@
 #ifndef __ANONYMOUSELECTION_H_
 #define __ANONYMOUSELECTION_H_
 
-#include "TSNNode.h"
+#include "tsn_node.h"
 #include "messages_m.h"
 #include <map>
 
