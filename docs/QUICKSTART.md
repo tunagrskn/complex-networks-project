@@ -298,7 +298,7 @@ Complete workflow from start to finish:
 source ~/omnetpp-6.0/setenv
 
 # 2. Build
-cd /space/neptun/myself/complex-networks-project
+cd /space/neptun/myself/distributed-systems-final-project
 ./build.sh
 
 # 3. Run basic test

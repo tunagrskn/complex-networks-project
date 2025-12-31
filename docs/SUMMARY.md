@@ -36,7 +36,7 @@ simulation framework.
 ## Project Structure
 
 ```
-complex-networks-project/
+distributed-systems-final-project/
 ├── src/                           # Source code
 │   ├── TSNNode.h/.cc             # Base class for all nodes
 │   ├── ArbitraryElection.h/.cc   # Algorithm 1 implementation

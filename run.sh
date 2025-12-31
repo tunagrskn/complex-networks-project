@@ -13,7 +13,7 @@ MODE="gui"
 CONFIG="RingNetwork"
 
 # Check if project is built, if not build it
-if [ ! -f "build/complex-networks-project" ]; then
+if [ ! -f "build/distributed-systems-final-project" ]; then
     echo "Executable not found. Building project..."
     if [ ! -d "build" ]; then
         source /space/jupiter/tools/omnetpp-6.3.0/setenv
@@ -23,7 +23,7 @@ if [ ! -f "build/complex-networks-project" ]; then
     meson compile -C build
 fi
 
-EXE_PATH="../build/complex-networks-project"
+EXE_PATH="../build/distributed-systems-final-project"
 
 # Parse arguments
 if [ $# -ge 1 ]; then

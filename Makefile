@@ -1,13 +1,13 @@
 #
-# OMNeT++/OMNEST Makefile for complex-networks-project
+# OMNeT++/OMNEST Makefile for distributed-systems-final-project
 #
 # This file was generated with the command:
-#  opp_makemake -f --deep -Iinclude -o complex-networks-project -e cpp
+#  opp_makemake -f --deep -Iinclude -o distributed-systems-final-project -e cpp
 #
 
 # Name of target to be created (-o option)
 TARGET_DIR = .
-TARGET_NAME = complex-networks-project$(D)
+TARGET_NAME = distributed-systems-final-project$(D)
 TARGET = $(TARGET_NAME)$(EXE_SUFFIX)
 TARGET_FILES = $(TARGET_DIR)/$(TARGET)
 

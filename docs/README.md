@@ -24,7 +24,7 @@ A randomized algorithm for fully connected networks:
 ## Project Structure
 
 ```
-complex-networks-project/
+distributed-systems-final-project/
 ├── src/
 │   ├── TSNNode.h/cc              # Base class for TSN nodes
 │   ├── ArbitraryElection.h/cc    # Flooding-based algorithm
